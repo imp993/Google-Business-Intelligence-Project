@@ -1,7 +1,7 @@
 # Google-Business-Intelligence-Project
 
-## Google Business Intelligence Professional
-This certification focuses on in-demand skills like data modeling, data visualization, and dashboarding and reporting covered in the following course series:
+## Google Business Intelligence Professional Certificate
+This certificate focuses on in-demand skills like data modeling, data visualization, and dashboarding and reporting covered in the following course series:
 
 1.Foundations of Business Intelligence
 2.The Path to Insights: Data Models and Pipelines
