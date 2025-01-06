@@ -17,7 +17,7 @@ The Project is divided into the following Sections:
 
 ## Project Planning:
 
-Gather information from notes taken at the last Cyclistic executive meeting
+*Gather information from notes taken at the last Cyclistic executive meeting
 Identify relevant stakeholders for each task
 Organize tasks into milestones
 Complete project planning documents to align with stakeholders
